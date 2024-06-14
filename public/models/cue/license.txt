@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pool Cue
+* source:	https://sketchfab.com/3d-models/pool-cue-6818e36dd6ae4cc3a73c63742e817349
+* author:	42yeah (https://sketchfab.com/42yeah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pool Cue" (https://sketchfab.com/3d-models/pool-cue-6818e36dd6ae4cc3a73c63742e817349) by 42yeah (https://sketchfab.com/42yeah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
